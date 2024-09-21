@@ -4,7 +4,7 @@
 
   ![NLP](https://img.shields.io/badge/NLP-Cloud%20API-blue.svg)
   ![Python](https://img.shields.io/badge/Python-3.8+-brightgreen.svg)
-  ![License](https://img.shields.io/github/license/sshrizvi/NLPApp)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 </div>
 
@@ -25,7 +25,7 @@ To run this application, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/<YourUsername>/NLPApp.git
+    git clone https://github.com/sshrizvi/NLPApp.git
     cd NLPApp
     ```
 
